@@ -1,0 +1,9 @@
+{
+  "name": "sequelize-cockroach-array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize-cockroachdb": "git+https://git@github.com/cockroachdb/sequelize-cockroachdb.git"
+  }
+}
